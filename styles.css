@@ -28,3 +28,11 @@
     color: #025157;
     margin-right: 18px;
   }
+.container-flex {
+    display: flex;
+}
+.explanation-video {
+    display: flex;
+    flex-direction: column;
+}
+
