@@ -3,3 +3,10 @@
     height: 400px;
     background-color:red;
 }
+.container-flex {
+    display: flex;
+}
+.explanation-video {
+    display: flex;
+    flex-direction: column;
+}
